@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It nwo includes steps for GitHub
 
 Time to focus
+
+We are adding a new line
